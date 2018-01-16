@@ -1,4 +1,4 @@
-  
+      <hr>
 
     <!-- Footer -->
     <footer>
@@ -43,3 +43,8 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/clean-blog.min.js"></script>
+
+  </body>
+
+</html>
+    
